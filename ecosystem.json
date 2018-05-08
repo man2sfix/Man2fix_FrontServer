@@ -3,6 +3,7 @@
     "name"        : "product",
     "script"      : "./bin/www",
     "args"        : "start",
+    "user"        : "man2sfix",
     "watch"       : false
   }]
 }
